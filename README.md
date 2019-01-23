@@ -10,6 +10,7 @@ Requirements:
 Usage:
 
 Step 1. capture.py - is the program to add known people to the database. To use: python capture.py "person_name".
+
 Step 2. camera.py - is the main program, it will open the detected camera and recognize the faces in the camera.
 
 Voila, that's it.
