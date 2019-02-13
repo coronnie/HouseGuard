@@ -18,3 +18,6 @@ Voila, that's it.
 
 Notes:
 When adding people to database, be sure to use the camera that's used to detect people's faces, to ensure that the faces in the database and the faces being detected in the camera have the same image source.
+
+Reference:
+FaceNet paper: https://arxiv.org/abs/1503.03832
